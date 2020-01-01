@@ -26,9 +26,7 @@ nutirions\.com
 //adf\.ly/
 //j\.gs/
 centerweb10
-okaygoods\.com
-preply\.com
-hellofifa
+okaygoods\.cohellofifa
 chinadivision
 driverdr\.com
 rsgp4u\.com
@@ -99,7 +97,6 @@ visaadvicecentre\.com
 drivethelife\.com
 singlerank\.com
 sayeureqa\.com
-callpcexpert\.com
 lafozi\.com
 open-swiss-bank\.com
 kalimadedot\.blogspot
@@ -140,7 +137,7 @@ dlllibrary\.net
 wisefixer\.(?:com|net|org)
 dojobsonline\.com
 /mu6\.me/
-password-?unlocker\.com
+-?unlocker\.com
 dropbox18gb\.com
 mysocialpromos\.com
 passwordtech\.com
@@ -915,7 +912,6 @@ uktechnumber\.co\.uk
 solidsurface-countertops\.com
 trancis\.com
 ulkaria\.com
-passwordrecoverysupport\.us
 zoomsupport\.com
 freedomltd\.com
 getclasaffloweroil\.com
@@ -2687,7 +2683,6 @@ fitnessway\.org
 clixsense\.com
 slimtonedietscare\.blogspot
 keto-diet-reviews\.com
-emailhelpdesk\.us
 apporio\.com
 10-0-0-0-1-ip\.com
 10-0-0-0-1\.org
